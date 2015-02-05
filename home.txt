@@ -1,0 +1,6 @@
+<form action="/" method="POST">
+<div>Welcome to Taxiplease</div>
+</form>
+<div><form action="/form" method="GET"><input type="submit" value="Create"/></div></form>
+<div><form action="/search" method="GET"><input type="submit" value="Find"/></div>
+</form>
