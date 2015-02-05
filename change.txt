@@ -23,6 +23,6 @@ git push
 
 issue 
 
-git rebase - to join 
+git rebase - to join when fork
 resolve - 
 git rebase --continue
