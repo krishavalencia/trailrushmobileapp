@@ -1,0 +1,28 @@
+reposiroty - location where ur code is (download's page)
+
+commit - 
+
+ssh key- secured shell - commandline - login 
+
+ssh-keygen -t rsa -C "deanchesternoriega@gmail.com"
+
+gitk -all
+ git status
+
+---pushing---
+
+1st 
+git push origin master
+
+
+
+2nd 
+git fetch
+git push
+
+
+issue 
+
+git rebase - to join 
+resolve - 
+git rebase --continue
