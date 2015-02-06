@@ -1,0 +1,23 @@
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes.dex : \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$3.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\BuildConfig.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\CordovaApp.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$array.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$attr.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$color.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$dimen.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$drawable.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$id.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$layout.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$menu.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$raw.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$string.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R$xml.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\ionicframework\ourproject695124\R.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\com\phonegap\plugins\barcodescanner\BarcodeScanner.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Users\kay\Ourproject\platforms\android\ant-build\dexedLibs\classes-adc9902c5794860a25d0d276fd87f715.jar \
+C:\Users\kay\Ourproject\platforms\android\ant-build\dexedLibs\com.google.zxing.client.android.captureactivity-847f11f4b879f0990cd63b123e617c53.jar \
