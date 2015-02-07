@@ -18,12 +18,12 @@ function mainController($scope, $http) {
 
   // when submitting the add form, send the text to the node API
   $scope.createTodo = function() {
-    $http.post('/api/1/databases/testmobile/collections/savehere?apiKey=X8645ILWJXiV_Rmu4gZVn1URuu1WF1Ey', $scope.formData)
+    $http.post('/api/1/databases/testmobile/collections/savehere?apiKey=X8645ILWJXiV_Rmu4gZVn1URuu1WF1Ey', content)
       var a = req.body;
 	new savehere({
 		textko: a.textko,
 	
-	}).save(function (err, savehere){
+	}).save(function (err, content){
 		if(err) res.json(err);
 		
 	});
